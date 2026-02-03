@@ -1,8 +1,8 @@
 # Daily Learning
 ## Morning Planning
 
-- [ ] Bullshit
-- [ ] More bullshit
+- [x] Bullshit
+- [x] More bullshit
 - [ ] Even more bullshit WHAT?!??!
       
 ## Review
